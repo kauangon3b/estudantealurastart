@@ -1,6 +1,6 @@
 # estudantealurastart
 **Boas vindas ao meu perfil** 💙💙
-Meu nome é Kauan Gonçalves Carvalho
+Meu nome é Kauan Gonçalves 
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
